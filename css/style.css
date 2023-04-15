@@ -48,3 +48,23 @@ footer {
         min-height: 236px;
     }
 }
+#img{
+    margin:0 auto;
+    max-width: 350px;
+    height: auto;
+}
+.Qst1 p{
+    font-size: 20px;
+    text-align: center;
+}
+#img img{
+    width: 100%;
+}
+.Cor1{
+    height: 450px;
+    background-color: #e5ff00;
+}
+.Cor2{
+    height: 450px;
+    background-color: #01eeff;
+}
